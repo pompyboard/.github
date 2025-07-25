@@ -23,28 +23,30 @@ our [OpenCollective page][opencollective].
 
 pompyboard vs other pointing device for osu:
 
-| Device       | Max polling rate      | Cursor position | Cursor drift | Price for best hardware |
-| ------------ | --------------------- | --------------- | ------------ | ----------------------- |
-| Pompyboard   | **8000Hz**            | Absolute        | **No**       | **Mid**                 |
-| Mouse        | **8000Hz**            | Relative        | Yes          | **Mid**                 |
-| Tablet       | 300Hz (w/o smoothing) | Absolute        | **No**       | High                    |
-| Mablet       | 300Hz (w/o smoothing) | Absolute        | **No**       | High                    |
-| Touch screen | 240Hz                 | Absolute        | **No**       | High                    |
+| Device       | Max polling rate\* | Cursor position | Cursor drift | Price for best hardware |
+| ------------ | ------------------ | --------------- | ------------ | ----------------------- |
+| Pompyboard   | **8000Hz**         | Absolute        | **No**       | **Mid**                 |
+| Mouse        | **8000Hz**         | Relative        | Yes          | **Mid**                 |
+| Tablet       | 300Hz              | Absolute        | **No**       | High                    |
+| Mablet       | 300Hz              | Absolute        | **No**       | High                    |
+| Touch screen | 240Hz              | Absolute        | **No**       | High                    |
+
+\*w/o smoothing in case of tablet
 
 pompyboard vs wacom tablet:
 
 | Tablet            | Active area  | resolution | Hover height | Report rate | Price                                                                             |
 | ----------------- | ------------ | ---------- | ------------ | ----------- | --------------------------------------------------------------------------------- |
 | Pompyboard v1     | 180 × 100 mm | 200 lpmm   | 20 mm        | 8000 Hz     | 100~200 USD                                                                       |
-| [CTH-480][cth480] | 152 × 95 mm  | 100 lpmm   | 21 mm        | 133 Hz      | -                                                                                 |
+| [CTH-480][cth480] | 152 × 95 mm  | 100 lpmm   | 21 mm        | 133 Hz      | discontinued                                                                      |
 | [CTL-472][ctl472] | 152 × 95 mm  | 100 lpmm   | 17 mm        | 133 Hz      | [$39.95](https://estore.wacom.com/en-us/one-by-wacom-small-ctl472k1a.html)        |
 | [PTK-470][ptk470] | 187 × 105 mm | 200 lpmm   | ?            | 300 Hz      | [$249.95](https://estore.wacom.com/en-us/wacom-intuos-pro-small-s-ptk470k0a.html) |
 
 ## Okay, I'm hooked
 
-### When can I buy the tablet?
+### Where can I buy the tablet?
 
-sometime during 2026.
+The tablet is still under development. It will be released sometime during 2026.
 
 ### I want help make the tablet
 
